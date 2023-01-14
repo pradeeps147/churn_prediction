@@ -19,3 +19,10 @@ Develop churn model with given data
 5. Share the notebook and csv having userID and predicted targetid from the validation data
 within two days from now.
 6. The final model will be assessed on F1 score on validation data.
+
+
+
+
+
+
+Try with artificial nuural network , it will definately give the good accuracy , number of feature are high so ANN is good idea to deal with this data.
